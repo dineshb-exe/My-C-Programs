@@ -1,0 +1,3 @@
+
+
+int pop(stack *s)
